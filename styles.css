@@ -1,0 +1,37 @@
+body {
+  background-color: #e4f9f5;
+}
+/*comment*/
+hr {
+  border-style: dotted;
+  border-color: #40514e;
+  border-width: 10px;
+  border-bottom-style: none;
+  width: 5%;
+}
+.banana {
+  height: 200px;
+  border-radius: 25% 10%;
+}
+
+h1{
+  color: #11999e;
+}
+h2{
+  color: #11999e;
+}
+h3{
+  color: #11999e;
+}
+p{
+  color: #11999e;
+}
+li{
+  color: #11999e;
+}
+td{
+  color: #11999e;
+}
+th{
+  color: #11999e;
+}
